@@ -32,5 +32,27 @@ Click on the 'Workbooks' tab within the Log Analytics Workspace. Select 'Add new
 
 <img width="1258" height="713" alt="brave_SrTv3vOQba" src="https://github.com/user-attachments/assets/f35461e7-3ed3-406d-a823-d8cbfc809262" />
 
+## Maps
 
-### File Share Setup
+### Entra ID (Azure) Authentication Success
+
+<img width="927" height="668" alt="brave_CymVKsIAyK" src="https://github.com/user-attachments/assets/6fd9c055-a18a-4c5f-838d-2b60005eecc5" />
+
+
+### Entra ID (Azure) Authentication Failures
+
+<img width="935" height="670" alt="brave_VMnv9JCHSi" src="https://github.com/user-attachments/assets/3ea014fd-4b8c-4840-8fd9-86de63ac4c2d" />
+
+
+### Azure Resource Creation
+
+<img width="922" height="635" alt="brave_ddu6DGHqxf" src="https://github.com/user-attachments/assets/fd914e02-68c7-4d29-9c3d-d7fd55c9e44a" />
+
+### VM Authentication Failures
+
+<img width="920" height="665" alt="brave_ZznVzzBBzR" src="https://github.com/user-attachments/assets/82c9edfd-8b17-4d70-bdc3-a6dba2e26073" />
+
+### Malicious Traffic Entering the Network
+
+<img width="920" height="662" alt="brave_0AKUHLG5pf" src="https://github.com/user-attachments/assets/5fadf2d0-2344-4310-8f63-79c720ecde40" />
+

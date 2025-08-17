@@ -44,16 +44,18 @@ This map shows where in the world users are failing to log in to the Azure tenan
 
 <img width="935" height="670" alt="brave_VMnv9JCHSi" src="https://github.com/user-attachments/assets/3ea014fd-4b8c-4840-8fd9-86de63ac4c2d" />
 
-
 ### Azure Resource Creation
+This map shows who created Azure resources, from where, and how many resources they created, based on logs collected in the Azure Activity Log. The colors represent the number of resources created from each location. Green indicates low activity (fewer resources created) and red highlights the locations with the highest number of resource creations.
 
 <img width="922" height="635" alt="brave_ddu6DGHqxf" src="https://github.com/user-attachments/assets/fd914e02-68c7-4d29-9c3d-d7fd55c9e44a" />
 
 ### VM Authentication Failures
+This map is a visual representation of failed login attempts across all virtual machines onboarded to Microsoft Defender for Endpoint in your tenant. The map’s colors show the number of failed login attempts, with red or darker colors indicating more failures and lighter colors indicating fewer.
 
 <img width="920" height="665" alt="brave_ZznVzzBBzR" src="https://github.com/user-attachments/assets/82c9edfd-8b17-4d70-bdc3-a6dba2e26073" />
 
 ### Malicious Traffic Entering the Network
+This map visualizes the inbound network traffic that has been flagged as malicious by Microsoft’s threat intelligence. The markers on the map represent the geographic locations of IP addresses that have sent malicious traffic into the network. Intense or warmer colors (like red or orange) indicate a higher number of or more severe threats, while cooler colors (like blue or green) represents fewer or less severe malicious events.
 
 <img width="920" height="662" alt="brave_0AKUHLG5pf" src="https://github.com/user-attachments/assets/5fadf2d0-2344-4310-8f63-79c720ecde40" />
 

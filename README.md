@@ -35,11 +35,12 @@ Click on the 'Workbooks' tab within the Log Analytics Workspace. Select 'Add new
 ## Maps
 
 ### Entra ID (Azure) Authentication Success
+This map is a visual representation of successful login attempts to your Azure environment (tenant-wide) from users across different geographic locations. The size and color of the marker indicate the number of successful logins. The more logins there are from a location, the larger and redder the marker appears on the map, while fewer logins result in a smaller, greener marker.
 
 <img width="927" height="668" alt="brave_CymVKsIAyK" src="https://github.com/user-attachments/assets/6fd9c055-a18a-4c5f-838d-2b60005eecc5" />
 
-
 ### Entra ID (Azure) Authentication Failures
+This map shows where in the world users are failing to log in to the Azure tenant, based on unsuccessful authentication attempts recorded in the SignInLogs table. Green markers indicate fewer failures, while red markers indicate a higher volume of failures.
 
 <img width="935" height="670" alt="brave_VMnv9JCHSi" src="https://github.com/user-attachments/assets/3ea014fd-4b8c-4840-8fd9-86de63ac4c2d" />
 

@@ -19,7 +19,13 @@ All relevant logs from network devices, servers, and applications will be system
 ## Actions and Observations
 
 ### Azure Portal
-Log into the Azure Portal and click on Microsoft Sentinel.
+Access the Microsoft Azure Portal and authenticate using your organizational credentials. From the portal homepage, proceed to the Microsoft Sentinel service. Within the Sentinel interface, Open the linked Log Analytics Workspace.
+
+<img width="929" height="415" alt="brave_BwJdhCo4oY" src="https://github.com/user-attachments/assets/125f3c10-3095-498a-9fb6-f44002b5797a" />
+
+<img width="794" height="370" alt="brave_I2dF81UvI7" src="https://github.com/user-attachments/assets/bb061255-109e-4692-b3a1-6c58274414db" />
+
+<img width="732" height="415" alt="brave_janWhZBusl" src="https://github.com/user-attachments/assets/6b0c59f0-8967-49d6-bdb1-7c71ebfc5a8f" />
 
 ### Workbook
 

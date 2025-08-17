@@ -26,10 +26,10 @@ Access the Microsoft Azure Portal and authenticate using your organizational cre
 <img width="732" height="415" alt="brave_janWhZBusl" src="https://github.com/user-attachments/assets/6b0c59f0-8967-49d6-bdb1-7c71ebfc5a8f" />
 
 ### Workbook
-Click on the 'Workbooks' tab within the Log Analytics Workspace. Select 'Add new' to create a new workbook. Once inside the workbook editor, navigate to the 'Advanced Editor' section and input the appropriate Kusto Query Language (KQL) script to generate the desired map visualization.
-
+Click on the 'Workbooks' tab within the Log Analytics Workspace. Select 'Add new' to create a new workbook. 
 <img width="929" height="415" alt="brave_BwJdhCo4oY" src="https://github.com/user-attachments/assets/125f3c10-3095-498a-9fb6-f44002b5797a" />
 
+Once inside the workbook editor, navigate to the 'Advanced Editor' section and input the appropriate Kusto Query Language (KQL) script to generate the desired map visualization.
 <img width="1258" height="713" alt="brave_SrTv3vOQba" src="https://github.com/user-attachments/assets/f35461e7-3ed3-406d-a823-d8cbfc809262" />
 
 ## Maps

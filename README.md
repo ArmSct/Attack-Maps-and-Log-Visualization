@@ -13,7 +13,7 @@ All relevant logs from network devices, servers, and applications will be system
 ## Technologies Utilized
 - Microsoft Azure (Virtual Machine deployment)
 - Microsoft Sentinel (SIEM)
-- Kusto Query Language (KQL) 
+- Kusto Query Language (KQL)
 - Windows 10
 
 ## Actions and Observations

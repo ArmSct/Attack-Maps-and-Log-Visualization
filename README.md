@@ -10,7 +10,7 @@ All relevant logs from network devices, servers, and applications will be system
 <img width="1188" height="573" alt="brave_3pi3aO8Koy" src="https://github.com/user-attachments/assets/20af3788-9e8c-454d-ba88-38f741276dd9" />
 
 
-## Technologies Utilized
+## Technologies Utilized 
 - Microsoft Azure (Virtual Machine deployment) 
 - Microsoft Sentinel (SIEM)
 - Kusto Query Language (KQL)

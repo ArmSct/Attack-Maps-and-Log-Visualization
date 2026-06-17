@@ -34,7 +34,7 @@ Once inside the workbook editor, navigate to the 'Advanced Editor' section and i
 
 ## Maps
 
-### Malicious Traffic Entering the Network
+### Malicious Traffic Entering the Network 
 This map visualizes the inbound network traffic that has been flagged as malicious by Microsoft’s threat intelligence. The markers on the map represent the geographic locations of IP addresses that have sent malicious traffic into the network. Intense or warmer colors (like red or orange) indicate a higher number of or more severe threats, while cooler colors (like blue or green) represents fewer or less severe malicious events.
 
 <img width="920" height="662" alt="brave_0AKUHLG5pf" src="https://github.com/user-attachments/assets/5fadf2d0-2344-4310-8f63-79c720ecde40" />
